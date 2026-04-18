@@ -20,7 +20,7 @@ This is a comprehensive, end-to-end Data Science project designed to analyze phy
 
 ## 🗂️ Dataset Source
 The dataset used in this project is the **Body Performance Data**, publicly available on Kaggle. 
-- **Source Link:** [Kaggle: Body Performance Dataset](https://www.kaggle.com/datasets/kukuroo3/body-performance-data).
+- **Source Link:** [Kaggle: Body Performance Dataset]([https://www.kaggle.com/datasets/kukuroo3/body-performance-data](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)).
 
 ## 📊 Dataset Insights
 The analysis was performed on the **Body Performance Dataset** (13,393 records), identifying key predictors of physical excellence:
