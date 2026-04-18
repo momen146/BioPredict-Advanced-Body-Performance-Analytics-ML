@@ -6,11 +6,12 @@ This is a comprehensive, end-to-end Data Science project designed to analyze phy
 2. **Regression Analysis:** To predict specific physical outcomes, such as broad jump distance.
 
 ## 🚀 Key Technical Highlights
-- **Dual Machine Learning Approach:** - **Classification:** Compared **7 different models** (including Random Forest, Gradient Boosting, and SVM) to find the best predictor for performance classes.
-    - **Regression:** Evaluated **8 regression models** to precisely predict numerical physical metrics.
-- **Deep Exploratory Data Analysis (EDA):** Leveraged Seaborn and Matplotlib to visualize complex correlations between body fat, age, and physical strength.
-- **Robust Preprocessing:** Implemented advanced data cleaning, outlier handling, and feature encoding to ensure model stability and reliability.
-- **Performance Evaluation:** Utilized **5+10-fold Cross-Validation**, Confusion Matrices, and R² scoring for rigorous model validation.
+- **Dual Machine Learning Approach:** - **Classification:** Compared 7 different models to predict performance classes (A-D).
+    - **Regression:** Evaluated 8 models to predict physical metrics like broad jump distance.
+- **Hyperparameter Tuning:** Optimized model performance using techniques like **Grid Search** or **Randomized Search** to fine-tune hyperparameters, ensuring the best possible balance between bias and variance.
+- **Deep Exploratory Data Analysis (EDA):** Leveraged Seaborn and Matplotlib to visualize complex correlations.
+- **Robust Preprocessing:** Implemented advanced data cleaning, outlier handling, and feature encoding.
+- **Performance Evaluation:** Utilized **5+10-fold Cross-Validation** and R² scoring for rigorous validation.
 
 ## 🛠️ Tech Stack
 - **Language:** Python
