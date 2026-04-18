@@ -18,6 +18,10 @@ This is a comprehensive, end-to-end Data Science project designed to analyze phy
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn.
 - **Environment:** Google Colab / Jupyter Notebook.
 
+## 🗂️ Dataset Source
+The dataset used in this project is the **Body Performance Data**, publicly available on Kaggle. 
+- **Source Link:** [Kaggle: Body Performance Dataset](https://www.kaggle.com/datasets/kukuroo3/body-performance-data).
+
 ## 📊 Dataset Insights
 The analysis was performed on the **Body Performance Dataset** (13,393 records), identifying key predictors of physical excellence:
 - **Top Predictors:** Broad Jump, Sit-ups counts, and Grip Force.
